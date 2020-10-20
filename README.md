@@ -1,12 +1,16 @@
-# Выполнен учебный проект по изучению React.JS
+## Выполнен учебный проект по изучению React.JS
 
 На входе была предоставлена верстка будущего сайта (HTML, CSS, JS плагины).
 
-На выходе сделано SPA (сайт), написанное на React.JS, результат [здесь] (https://)
+На выходе сделано SPA (сайт), написанное на React.JS.
 
 Вся верстка разбита на компоненты, частично используется роутинг, State, useState, useEffect, местами хуки.
 
 Используется открытое API https://api.spacexdata.com/
+
+
+
+** **
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
